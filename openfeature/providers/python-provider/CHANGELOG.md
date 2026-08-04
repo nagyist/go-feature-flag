@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2.1](https://github.com/thomaspoignant/go-feature-flag/compare/openfeature/providers/python-provider/v1.2.0...openfeature/providers/python-provider/v1.2.1) (2026-08-04)
+
+
+### 🔧 Chores
+
+* Bump github.com/aws/aws-sdk-go-v2/service/s3 ([#5577](https://github.com/thomaspoignant/go-feature-flag/issues/5577)) ([02d42d7](https://github.com/thomaspoignant/go-feature-flag/commit/02d42d7ca089071c263fe5283ad3d01ce6365025))
+* Bump github.com/aws/aws-sdk-go-v2/service/s3 ([#5594](https://github.com/thomaspoignant/go-feature-flag/issues/5594)) ([4784dba](https://github.com/thomaspoignant/go-feature-flag/commit/4784dba83fd00f8472cd4bf87ec94264df7c0bfa))
+
+
+### ⚙️ CI/CD
+
+* install Python provider deps from the committed uv.lock ([#5708](https://github.com/thomaspoignant/go-feature-flag/issues/5708)) ([c88351c](https://github.com/thomaspoignant/go-feature-flag/commit/c88351c885d45eb96d0e202586b2dae9ca726e34))
+
 ## [1.2.0](https://github.com/thomaspoignant/go-feature-flag/compare/openfeature/providers/python-provider/v1.1.0...openfeature/providers/python-provider/v1.2.0) (2026-07-02)
 
 

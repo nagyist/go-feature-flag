@@ -213,7 +213,7 @@ wheels = [
 
 [[package]]
 name = "gofeatureflag-python-provider"
-version = "1.2.0"
+version = "1.2.1"
 source = { editable = "." }
 dependencies = [
     { name = "openfeature-provider-ofrep" },
